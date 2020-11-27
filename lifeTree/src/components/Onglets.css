@@ -7,35 +7,20 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
-  font-size: 0.8em;
 }
 .contBtn .active {
-  border: solid black ;
+  border-bottom: solid black;
 }
 .onglets {
+  width: 33%;
   padding: 1em;
   background: #555555;
   color: #f1f1f1;
   display: flex;
-  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
   cursor: pointer;
-  border:solid black;
-  border-radius: 1em;
-  margin: 1em;
-  box-shadow: -5px -3px 7px #333;
-
-
-}
-.descript
-{
-  display: none;
-}
-.descript.active
-{
-  display: flex;
-  border: none;
-  font-family: inherit;
-  font-size: inherit;
+  border-bottom: solid #333;
 }
 .container {
   width: auto;
@@ -45,9 +30,8 @@
   margin-top: 1em;
 }
 
-.onglets.active {
+.active {
   background: rgb(248, 248, 248);
   color: #333;
   box-shadow: 5px 3px 7px;
 }
-

@@ -17,12 +17,12 @@ const SlideshowMedium = ({
   reference,
   link,
   images = [
-    "/images/arbres/arbre01.jpeg",
-    "/images/arbres/arbre01.jpeg",
-    "/images/arbres/arbre01.jpeg",
-    "/images/arbres/arbre01.jpeg",
-    "/images/arbres/arbre01.jpeg",
-    "/images/arbres/arbre01.jpeg"
+    "http://www.milhiecreation.com/images/arbres/arbre01.jpeg",
+    "http://www.milhiecreation.com/images/arbres/arbre01.jpeg",
+    "http://www.milhiecreation.com/images/arbres/arbre01.jpeg",
+    "http://www.milhiecreation.com/images/arbres/arbre01.jpeg",
+    "http://www.milhiecreation.com/images/arbres/arbre01.jpeg",
+    "http://www.milhiecreation.com/images/arbres/arbre01.jpeg"
   ]
 }) => {
   return (
@@ -31,14 +31,11 @@ const SlideshowMedium = ({
         <h2 className="card-title">{title}</h2>
         <p className="price">
           {link}
-          <br/>
           {price}
-          <br/>
-          <br/>
         </p>
         <Slide {...proprietes}>
           {images.map((each, index) => (
-            <img key={index} src={each} alt="arbre de vie" />
+            <img key={index} src={each} alt="produit" />
           ))}
         </Slide>
         <div className="description">

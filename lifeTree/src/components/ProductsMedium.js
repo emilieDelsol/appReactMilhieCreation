@@ -29,15 +29,15 @@ const productsMedium = [
     ),
     reference: "medium_LifeTree_01",
     images: [
-      "/images/arbres/arbreM01.jpeg",
-      "/images/arbres/arbreM01(01).jpeg",
-      "/images/arbres/arbreM01(02).jpeg",
-      "/images/arbres/arbreM01(03).jpeg",
-      "/images/arbres/arbreM01(04).jpeg",
-      "/images/arbres/arbreM01(05).jpeg",
-      "/images/arbres/arbreM01(06).jpeg",
-      "/images/arbres/arbreM01(07).jpeg",
-      "/images/arbres/arbreM01(08).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreM01.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM01(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM01(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM01(03).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM01(04).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM01(05).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM01(06).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM01(07).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM01(08).jpeg"
     ]
   },
 
@@ -68,12 +68,12 @@ const productsMedium = [
     ),
     reference: "medium_life_tree_02",
     images: [
-      "/images/arbres/arbreM02.jpeg",
-      "/images/arbres/arbreM02(01).jpeg",
-      "/images/arbres/arbreM02(02).jpeg",
-      "/images/arbres/arbreM02(03).jpeg",
-      "/images/arbres/arbreM02(04).jpeg",
-      "/images/arbres/arbreM02(05).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreM02.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM02(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM02(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM02(03).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM02(04).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM02(05).jpeg"
     ]
   },
   {
@@ -104,13 +104,13 @@ const productsMedium = [
     ),
     reference: "medium_life_tree_03",
     images: [
-      "/images/arbres/arbreM03.jpeg",
-      "/images/arbres/arbreM03(01).jpeg",
-      "/images/arbres/arbreM03(02).jpeg",
-      "/images/arbres/arbreM03(03).jpeg",
-      "/images/arbres/arbreM03(04).jpeg",
-      "/images/arbres/arbreM03(05).jpeg",
-      "/images/arbres/arbreM03(06).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreM03.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM03(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM03(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM03(03).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM03(04).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM03(05).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM03(06).jpeg"
     ]
   },
 
@@ -143,10 +143,10 @@ const productsMedium = [
     ),
     reference: "medium_life_tree_4",
     images: [
-      "/images/arbres/arbreM04.jpeg",
-      "/images/arbres/arbreM04(01).jpeg",
-      "/images/arbres/arbreM04(02).jpeg",
-      "/images/arbres/arbreM04(03).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreM04.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM04(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM04(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM04(03).jpeg"
     ]
   },
 
@@ -177,12 +177,12 @@ const productsMedium = [
     ),
     reference: "medium_life_tree_5",
     images: [
-      "/images/arbres/arbreM05.jpeg",
-      "/images/arbres/arbreM05(01).jpeg",
-      "/images/arbres/arbreM05(02).jpeg",
-      "/images/arbres/arbreM05(03).jpeg",
-      "/images/arbres/arbreM05(04).jpeg",
-      "/images/arbres/arbreM05(05).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreM05.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM05(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM05(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM05(03).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM05(04).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM05(05).jpeg"
     ]
   },
 
@@ -212,16 +212,16 @@ const productsMedium = [
     ),
     reference: "medium_life_tree_6",
     images: [
-      "/images/arbres/arbreM06.jpeg",
-      "/images/arbres/arbreM06(01).jpeg",
-      "/images/arbres/arbreM06(02).jpeg",
-      "/images/arbres/arbreM06(03).jpeg",
-      "/images/arbres/arbreM06(04).jpeg",
-      "/images/arbres/arbreM06(05).jpeg",
-      "/images/arbres/arbreM06(06).jpeg",
-      "/images/arbres/arbreM06(07).jpeg",
-      "/images/arbres/arbreM06(08).jpeg",
-      "/images/arbres/arbreM06(09).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreM06.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM06(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM06(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM06(03).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM06(04).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM06(05).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM06(06).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM06(07).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM06(08).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreM06(09).jpeg"
     ]
   }
 ];

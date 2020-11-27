@@ -34,9 +34,7 @@ export default function Onglets() {
         >
           {" "}
           <h1>Grands Modèles</h1>
-          
         </div>
-          
         <div
           onClick={goM}
           className={`onglets ${stateOnglets === 2 ? "active" : ""}`}
@@ -50,12 +48,11 @@ export default function Onglets() {
           <h1>Petits modèles</h1>
         </div>
       </div>
-      
       <div className="container">
         {stateOnglets === 1 ? (
           <div className="cont">
             <section className="slideshow">
-              {products.map(product => (
+              {products.map((product) => (
                 <Slideshow
                   title={product.title}
                   price={product.price}
@@ -70,8 +67,8 @@ export default function Onglets() {
         ) : stateOnglets === 2 ? (
           <div className="cont">
             <section className="slideshowMedium">
-              {productsMedium.map(product => (
-                <SlideshowMedium
+              {productsMedium.map((product) => (
+                <Slideshow
                   title={product.title}
                   price={product.price}
                   description={product.description}
@@ -85,8 +82,8 @@ export default function Onglets() {
         ) : (
           <div className="cont">
             <section className="slideshowSmall">
-              {productsSmall.map(product => (
-                <SlideshowSmall
+              {productsSmall.map((product) => (
+                <Slideshow
                   title={product.title}
                   price={product.price}
                   description={product.description}

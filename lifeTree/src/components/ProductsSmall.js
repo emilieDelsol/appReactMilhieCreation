@@ -28,8 +28,8 @@ const productsSmall = [
     ),
     reference: "small_LifeTree_01",
     images: [
-      "/images/arbres/arbreS01.jpeg",
-      "/images/arbres/arbreS01(01).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreS01.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS01(01).jpeg"
     ]
   },
 
@@ -60,11 +60,11 @@ const productsSmall = [
     ),
     reference: "small_life_tree_02",
     images: [
-      "/images/arbres/arbreS02.jpeg",
-      "/images/arbres/arbreS02(01).jpeg",
-      "/images/arbres/arbreS02(02).jpeg",
-      "/images/arbres/arbreS02(03).jpeg",
-      "/images/arbres/arbreS02(04).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreS02.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS02(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS02(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS02(03).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS02(04).jpeg"
     ]
   },
   {
@@ -95,12 +95,12 @@ const productsSmall = [
     ),
     reference: "small_life_tree_03",
     images: [
-      "/images/arbres/arbreS03.jpeg",
-      "/images/arbres/arbreS03(01).jpeg",
-      "/images/arbres/arbreS03(02).jpeg",
-      "/images/arbres/arbreS03(03).jpeg",
-      "/images/arbres/arbreS03(04).jpeg",
-      "/images/arbres/arbreS03(05).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreS03.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS03(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS03(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS03(03).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS03(04).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS03(05).jpeg"
     ]
   },
 
@@ -133,11 +133,11 @@ const productsSmall = [
     ),
     reference: "small_life_tree_4",
     images: [
-      "/images/arbres/arbreS04.jpeg",
-      "/images/arbres/arbreS04(01).jpeg",
-      "/images/arbres/arbreS04(02).jpeg",
-      "/images/arbres/arbreS04(03).jpeg",
-      "/images/arbres/arbreS04(04).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreS04.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS04(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS04(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS04(03).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS04(04).jpeg"
     ]
   },
 
@@ -167,14 +167,14 @@ const productsSmall = [
     ),
     reference: "small_life_tree_5",
     images: [
-      "/images/arbres/arbreS05.jpeg",
-      "/images/arbres/arbreS05(01).jpeg",
-      "/images/arbres/arbreS05(02).jpeg",
-      "/images/arbres/arbreS05(03).jpeg",
-      "/images/arbres/arbreS05(04).jpeg",
-      "/images/arbres/arbreS05(05).jpeg",
-      "/images/arbres/arbreS05(06).jpeg",
-      "/images/arbres/arbreS05(07).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreS05.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS05(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS05(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS05(03).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS05(04).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS05(05).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS05(06).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS05(07).jpeg"
     ]
   },
 
@@ -206,12 +206,12 @@ const productsSmall = [
     ),
     reference: "small_life_tree_6",
     images: [
-
-      "/images/arbres/arbreS06.jpeg",
-      "/images/arbres/arbreS06(01).jpeg",
-      "/images/arbres/arbreS06(02).jpeg",
-      "/images/arbres/arbreS06(04).jpeg",
-      "/images/arbres/arbreS06(05).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreS06.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS06(01).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS06(02).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS06(03).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS06(04).jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS06(05).jpeg"
     ]
   },
 
@@ -239,8 +239,8 @@ const productsSmall = [
     ),
     reference: "small_life_tree_7",
     images: [
-      "/images/arbres/arbreS07.jpeg",
-      "/images/arbres/arbreS07(01).jpeg"
+      "http://www.milhiecreation.com/images/arbres/arbreS07.jpeg",
+      "http://www.milhiecreation.com/images/arbres/arbreS07(01).jpeg"
     ]
   }
 ];
