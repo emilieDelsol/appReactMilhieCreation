@@ -1,6 +1,8 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+/* font-family: 'Niconne', cursive;*/
+  font-family: 'Bad Script', cursive;
 }
 .titleState{
   font-size: 3vh;
@@ -10,6 +12,7 @@
   border: solid #333;
   border-bottom-right-radius: 1em;
   border-bottom-left-radius: 1em;
+  padding: 1em;
 }
 .contBtn {
   display: flex;
@@ -34,7 +37,7 @@
   text-align: center;
 }
 .cont {
-  margin-top: 1em;
+  margin-top: 3em;
 }
 
 .active {

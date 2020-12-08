@@ -7,14 +7,13 @@
   }
 
   .each-slide {
-    width: 25em;
     margin: auto;
   }
   .containerSlide img {
     width: 100%;
   }
   .containerSlide{
-      padding: 1em;
+      padding: 0.4em;
   }
   
   .slideshow,

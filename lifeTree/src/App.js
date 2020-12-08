@@ -25,7 +25,7 @@ export default function App() {
   };
   return (
     <div className="App">
-      <h1>Arbres de vie:</h1>
+      <h1><img src="http://www.milhiecreation.com/images/ico_epingle.png" alt="epingle"/> Arbres de vie</h1>
       <div className="contain">
         <div className="contBtn">
           <div
