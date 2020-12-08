@@ -1,0 +1,26 @@
+.containerSlide {
+    width: 45vh;
+    margin: auto;
+    border: solid black;
+    border-radius: 1em;
+    margin-bottom: 1em;
+  }
+
+  .each-slide {
+    margin: auto;
+  }
+  .containerSlide img {
+    width: 100%;
+  }
+  .containerSlide{
+      padding: 0.4em;
+  }
+  
+  .slideshow,
+  .slideshowMedium,
+  .slideshowSmall {
+
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
