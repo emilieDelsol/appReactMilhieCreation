@@ -1,12 +1,9 @@
 import React, { useState } from "react";
 import "./styles.css";
 
-import "./components/Onglets.css";
-import "./components/Slide.css";
+import "./components/Slideshow.css";
 
-import Slideshow from "./components/Slide";
-import SlideshowMedium from "./components/SlideMedium";
-import SlideshowSmall from "./components/SlideSmall";
+import Slideshow from "./components/Slideshow";
 
 import products from "./components/ProductsBig";
 import productsMedium from "./components/ProductsMedium";
@@ -28,29 +25,30 @@ export default function App() {
   };
   return (
     <div className="App">
+      <h1>Arbres de vie:</h1>
       <div className="contain">
         <div className="contBtn">
           <div
             onClick={goGD}
-            className={`onglets ${stateOnglets === 1 ? "active" : ""}`}
+            className={`buttonLeft onglets ${stateOnglets === 1 ? "active" : ""}`}
           >
             {" "}
-            <h1>Grands Modèles</h1>
+            <h1 className="titleState">Grands Modèles</h1>
           </div>
           <div
             onClick={goM}
-            className={`onglets ${stateOnglets === 2 ? "active" : ""}`}
+            className={`buttonCenter onglets ${stateOnglets === 2 ? "active" : ""}`}
           >
-            <h1>Moyens modèles</h1>
+            <h1 className="titleState">Moyens modèles</h1>
           </div>
           <div
             onClick={goS}
-            className={`onglets ${stateOnglets === 3 ? "active" : ""}`}
+            className={`buttonRight onglets ${stateOnglets === 3 ? "active" : ""}`}
           >
-            <h1>Petits modèles</h1>
+            <h1 className="titleState">Petits modèles</h1>
           </div>
         </div>
-        <div className="container">
+        <div className="container panel">
           {stateOnglets === 1 ? (
             <div className="cont">
               <section className="slideshow">
@@ -70,7 +68,7 @@ export default function App() {
             <div className="cont">
               <section className="slideshowMedium">
                 {productsMedium.map((product) => (
-                  <SlideshowMedium
+                  <Slideshow
                     title={product.title}
                     price={product.price}
                     description={product.description}
@@ -85,7 +83,7 @@ export default function App() {
             <div className="cont">
               <section className="slideshowSmall">
                 {productsSmall.map((product) => (
-                  <SlideshowSmall
+                  <Slideshow
                     title={product.title}
                     price={product.price}
                     description={product.description}
